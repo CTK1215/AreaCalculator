@@ -21,4 +21,11 @@ class Program
         //Formula for area of Triangle
         return baseLength * height / 2;
     }
+
+    public static double RectangleArea(double length, double width)
+
+    {
+        //Formula for area of Rectangle
+        return length * width;
+    }
 }
