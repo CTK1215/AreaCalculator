@@ -28,4 +28,12 @@ class Program
         //Formula for area of Rectangle
         return length * width;
     }
+    
+    public static double SquareArea(double side)
+    
+    {
+        //Formula for area of Square
+        return side * side;
+        
+    }
 }
