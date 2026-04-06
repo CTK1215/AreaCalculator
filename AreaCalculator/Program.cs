@@ -6,4 +6,11 @@ class Program
     {
         Console.WriteLine("Hello, World!");
     }
+
+    public static double CircleArea(double radius)
+
+    {
+        //Formula for the area of a circle
+        return Math.PI * radius * radius;
+    }
 }
